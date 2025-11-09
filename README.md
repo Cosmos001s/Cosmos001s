@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=3AA6F8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Saksham+Srivastava+👋;AI%2FML+Enthusiast+|+Developer+|+Tech+Explorer;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=3AA6F8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Saksham+Srivastava+👋;AI%2FML+Enthusiast+|+Developer+|+Tech+Explorer;Always+learning+new+things" />
 </p>
 
 # 👨‍💻 About Me
