@@ -79,5 +79,5 @@ Comprehensive answers for CC Modules 3, 4, 5.
 
 <p align="center"><b>⭐ If you like my work, consider giving a star to my repositories!</b></p>
 
-<p align="center">"Keep exploring, keep building, and never stop learning." 🚀</p>
+<p align="center">"Keep exploring, keep building, and never stop learning."</p>
 
