@@ -4,7 +4,7 @@
 </p>
 
 # 👨‍💻 About Me
-I'm **Saksham Srivastava**, a **BE CSE (3rd Year) student at NCET, Bangalore**, passionate about **AI/ML, R&D, Game Development, Cloud Computing, Distributed Systems, Software Engineering, and UAV technologies**.
+I'm **Saksham Srivastava**, a **BE CSE (4th Year) student at NCET, Bangalore**, passionate about **AI/ML, R&D, Game Development, Cloud Computing, Distributed Systems, Software Engineering, and UAV technologies**.
 
 ✨ I love exploring new technologies, building projects, and constantly improving my skill set.
 
